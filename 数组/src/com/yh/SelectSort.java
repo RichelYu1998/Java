@@ -10,7 +10,7 @@ public class SelectSort {
         int index;
         for (int i = 1; i < array.length; i++) {
             index = 0;
-            for (int j = 1; j < array.length - i; j++) {
+            for (int j = 1; j <= array.length - i; j++) {
                 if (array[j] > array[index]) {
                     index = j;
                 }
