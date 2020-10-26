@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/数组/数组.iml" filepath="$PROJECT_DIR$/数组/数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/流程控制/流程控制.iml" filepath="$PROJECT_DIR$/流程控制/流程控制.iml" />
       <module fileurl="file://$PROJECT_DIR$/类和对象/类和对象.iml" filepath="$PROJECT_DIR$/类和对象/类和对象.iml" />
+      <module fileurl="file://$PROJECT_DIR$/类的高级特性/类的高级特性.iml" filepath="$PROJECT_DIR$/类的高级特性/类的高级特性.iml" />
     </modules>
   </component>
 </project>
